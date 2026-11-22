@@ -1,0 +1,17 @@
+# Build output
+target/        
+build/         
+out/           
+*.class        
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data (keep sample data only)
+# Ignore everything the app saves in data except the sample data folder
+data/*         
+!data/sample/

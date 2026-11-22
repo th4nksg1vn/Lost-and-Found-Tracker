@@ -24,11 +24,6 @@ mvnw javafx:run
 .\mvnw javafx:run
 ```
 
-3. Run the final command to see the GUI
-```cmd
-mvnw clean javafx:run
-```
-
 ### Mac/Linux
 1. Open the terminal and navigate to the lost-and-found-tracker folder.
 ```bash
@@ -40,7 +35,7 @@ cd ~/path/to/"Lost and Found Tracker"/lost-and-found-tracker
 ./mvnw javafx:run
 ```
 
-3. Run the final command to see the GUI
+If that doesn't work, run the command directly from the shell to see the GUI
 ```bash
-mvnw clean javafx:run
+sh ./mvnw clean javafx:run
 ```

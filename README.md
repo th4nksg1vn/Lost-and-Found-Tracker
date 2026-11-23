@@ -8,7 +8,7 @@ This project was created using Apache Maven.
 Whilst the average user would not need to install it to run the program, it is recommended to use this [video](https://www.youtube.com/watch?v=T00NKLQvwYE&t=1749s) (up to the 28:00) to understand how it works.
 
 ## Run Instructions
-> JDK 17+ is **required** for this project. Install it first from [here](https://www.oracle.com/africa/java/technologies/downloads/)
+> JDK 21+ is **required** for this project. Install it first from [here](https://www.oracle.com/africa/java/technologies/downloads/)
 ### Windows
 1. Open command prompt or powershell and navigate to the lost-and-found-tracker folder.
 ```cmd

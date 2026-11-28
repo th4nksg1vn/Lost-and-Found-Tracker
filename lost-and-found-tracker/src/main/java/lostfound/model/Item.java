@@ -24,6 +24,10 @@ public abstract class Item {
         this.status = status;
     }
 
+    protected Item(){
+        this.ITEM_ID = 0;
+    }
+
     public int getITEM_ID() {return ITEM_ID;}
     public ItemCategory getCategory() {return category;}
     public String getColor() {return color;}

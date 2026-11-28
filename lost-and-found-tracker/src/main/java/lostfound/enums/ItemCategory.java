@@ -1,6 +1,6 @@
 package lostfound.enums;
 
-enum ItemCategory {
+public enum ItemCategory {
     ID_CARD,
     MOBILE_DEVICE,
     WALLET,

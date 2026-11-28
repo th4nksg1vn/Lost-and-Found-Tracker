@@ -1,6 +1,6 @@
 package lostfound.enums;
 
-enum ItemStatus {
+public enum ItemStatus {
     REPORTED,
     FOUND,
     MATCHED,

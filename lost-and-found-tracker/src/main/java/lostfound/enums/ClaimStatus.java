@@ -1,6 +1,6 @@
 package lostfound.enums;
 
-enum ClaimStatus {
+public enum ClaimStatus {
     PENDING,
     VERIFIED,
     REJECTED,
